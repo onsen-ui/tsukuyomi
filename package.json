@@ -1,0 +1,8 @@
+{
+  "name": "tsukuyomi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/onsen-ui/tsukuyomi.git",
+  "author": "Onsen UI <onsen03@gmail.com>",
+  "license": "MIT"
+}
